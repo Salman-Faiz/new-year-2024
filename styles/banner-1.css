@@ -38,6 +38,6 @@
     position:absolute;
     text-align: center;
     background-color: darkgoldenrod;
-    border: 0;
+    border:1 solid black;
     border-radius: 5px;
 }

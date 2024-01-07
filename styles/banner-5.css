@@ -1,0 +1,55 @@
+.banner-5{
+    color: white;   
+    height: 600px;
+        width:2000px;
+        margin: 0 px;
+        background-color: black;
+        border-radius: 20px;
+}
+
+.footer-controller{
+    display: flex;
+    justify-content:space-around;
+    gap: 0px;
+}
+.footer-title{
+    font-size: 50px;
+    margin-bottom: 10px;
+    padding-top: 30px;
+}
+.footer-description{
+    font-size: 25px;
+    display: block;
+    width: 400px;
+    height: 120px;
+    padding-top: 10px;
+}
+.email-phone{
+    font-size:20px;
+}
+.sub-title{
+    font-size: 50px;
+margin-bottom: 10px;
+padding-top: 30px;
+margin-left: 0px;
+padding-left: 14px;
+}
+#email-1{
+    padding: 20px;
+    margin: 20px;
+    text-align:left;
+    border: none;
+    border-radius: 5px;
+    height:30px;
+    font-size: 20px;
+    width: 300px;
+}
+.btn-subscribe{
+    height:50px;
+    font-size: 22px;
+    width: 150px;
+   margin-left: 18px;
+   border: none;
+   border-radius: 5px;
+   background-color: darkgoldenrod;
+}
