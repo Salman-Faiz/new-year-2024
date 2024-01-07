@@ -9,10 +9,10 @@
 
 }
 
-.banner-container .banner-1-title,
-.banner-1-description, .btn-cobtact-us {
+.banner-container-1 .banner-1-title,
+.banner-1-description{
     display: block;
-    width: 300px;
+    width: 350px;
     height: auto;
     text-align: center;
     position: absolute;
@@ -20,14 +20,14 @@
 
 .banner-1-title {
     font-size: 60px;
-    top: 150px;
+    top: 110px;
     right: 350px;
     text-wrap: wrap;
 }
 
 .banner-1-description {
     font-size: 20px;
-    top: 460px;
+    top: 380px;
     right: 350px;
     text-wrap: wrap;
 }
@@ -35,8 +35,8 @@
     display: block;
     width: 200px;
     height: 60px;
-    bottom: 250px;
-    right: 385px; 
+    bottom: 350px;
+    right: 410px; 
     font-size: 20px;
     position:absolute;
     text-align: center;

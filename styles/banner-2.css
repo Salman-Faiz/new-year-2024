@@ -1,0 +1,43 @@
+.banner-container-2{
+    display: flex;
+    gap: 0;
+    height: 900px;
+    width: 1600px;
+    margin: 0 150px;
+    background-color:white;
+}
+.banner-container-2 .banner-2-title,
+.banner-2-description{
+    display: block;
+    font-weight: 700px;
+    width: 350px;
+    height: auto;
+    text-align: left;
+    position: absolute;
+}
+.banner-2-title {
+    font-size: 50px;
+   text-align: left;
+    right: 500px;
+    text-wrap: wrap;
+    padding-top:100px;
+}
+.banner-2-description {
+    font-size: 20px;
+    padding-top:260px;
+    right: 500px;
+    text-wrap: wrap;
+}
+#banner2{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.banner-2 .banner-2-list{
+
+display:block;
+list-style: none;
+padding-top:400px;
+padding-left: 230px;
+font-size: 25px;
+
+}
